@@ -24,7 +24,7 @@
 
 ### ʚ♡ɞ &nbsp; About Me
 
-> Veri bilimi ve yapay zekâ üzerine çalışan bir **data scientist**'im. İstatistiksel temelden derin öğrenmeye uzanan bir yelpazede; **makine öğrenmesi**, **NLP** ve **LLM**'lerle sade ama etkili çözümler kuruyorum. Pembe sevsem de işim production-ready. 🎀
+> Veri bilimi ve yapay zekâ üzerine çalışan bir **data scientist**'im. İstatistiksel temelden derin öğrenmeye uzanan bir yelpazede; **makine öğrenmesi**, **NLP** ve **LLM**'lerle sade ama etkili çözümler kuruyorum.🎀
 
 <table>
 <tr>
