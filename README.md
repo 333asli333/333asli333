@@ -40,8 +40,7 @@
 
 🤖 &nbsp;Favori ikilim: **Claude Code** ✨
 ☕ &nbsp;Yakıtım: kahve + merak
-💬 &nbsp;Konuşmayı sevdiklerim: **R**, **SQL**, AI
-💗 &nbsp;Mottom: *zarif ama güçlü kod*
+
 
 </td>
 </tr>
