@@ -38,9 +38,6 @@
 </td>
 <td>
 
-🤖 &nbsp;Favori ikilim: **Claude Code** ✨
-☕ &nbsp;Yakıtım: kahve + merak
-
 
 </td>
 </tr>
