@@ -30,13 +30,10 @@
 <tr>
 <td>
 
-🌷 &nbsp;Şu an **LLM** & **NLP** projelerindeyim
-🧠 &nbsp;Derin öğrenmede **CNN** maceraları
-📊 &nbsp;**İstatistik** + **ML** ile veriden hikâye
-🐘 &nbsp;Yeni macera: **PHP / Laravel**
-
-</td>
-<td>
+🌷 &nbsp;Şu an **LLM** & **NLP** projelerinde çalışıyorum.
+🧠 &nbsp;Derin öğrenmede **CNN** maceralar peşindeyim.
+📊 &nbsp;**İstatistik** + **ML** ile veriden hikâyeler oluşturuyorum.
+💗 &nbsp;Yeni macera: **PHP / Laravel** interaktif dashboardlar kuruyorum.
 
 
 </td>
