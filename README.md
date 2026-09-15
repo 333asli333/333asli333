@@ -1,105 +1,116 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=30&duration=3000&pause=1000&color=B76E79&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Asl%C4%B1+%F0%9F%8E%80;Data+Scientist+%26+AI+Enthusiast;Veriyle+masal+yazan+biri+%F0%9F%92%97" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=44&duration=3200&pause=900&color=22FF66&center=true&vCenter=true&width=760&height=80&lines=ASLI+TORUN;Data+Scientist+%C2%B7+ML%2FNLP+Engineer;raw_data+%E2%86%92+strategic_decision" alt="Aslı Torun — Data Scientist · ML/NLP Engineer" />
 
-<sub><i>Turning data into decisions — softly, but seriously.</i></sub>
+<sub><code>&gt; An AI engineer who turns raw data into measurable business decisions.</code></sub>
 
 <br/><br/>
 
-<a href="https://github.com/333asli333">
-  <img src="https://img.shields.io/badge/GitHub-B76E79?style=for-the-badge&logo=github&logoColor=FFF5F5"/>
+<a href="https://aisli.dev">
+  <img src="https://img.shields.io/badge/portfolio-aisli.dev-22FF66?style=for-the-badge&labelColor=010601&logo=firefoxbrowser&logoColor=22FF66" alt="portfolio: aisli.dev"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/aslı-torun-734a28243">
-  <img src="https://img.shields.io/badge/LinkedIn-C98B9B?style=for-the-badge&logo=linkedin&logoColor=FFF5F5"/>
+<a href="https://www.linkedin.com/in/asl%C4%B1-torun-734a28243">
+  <img src="https://img.shields.io/badge/linkedin-connect-12C24A?style=for-the-badge&labelColor=010601&logo=linkedin&logoColor=22FF66" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:aslitorun77@gmail.com">
+  <img src="https://img.shields.io/badge/email-reach_out-0C5E2A?style=for-the-badge&labelColor=010601&logo=maildotru&logoColor=22FF66" alt="email"/>
 </a>
 
 </div>
 
+---
+
+### `> ~/whoami`
+
+```console
+$ whoami
+asli_torun · Data Scientist · ML/NLP Engineer · Antalya, TR
+
+$ cat focus.txt
+Statistics graduate who ships. I build models that make a decision,
+then I build the screen the team opens every morning to act on it.
+
+$ ls proof/
+fraud_detection    ROC AUC 0.9568 · 16 engineered features
+tourism_analysis   59K+ records · 5 customer segments
+nlp_products       3 live in production
+```
+
+---
+
+### `> ~/awards`
+
+> 🥇 &nbsp;**1st place · TourisTech Hackathon 2026**
+> Antalya Bilim Üniversitesi · backed by the West Mediterranean Development Agency · ranked by an 8-member jury
+>
+> **Otelist** predicts hotel booking cancellations at **89% accuracy**, then an AI voice agent calls the guest before the cancellation happens. Built in 48 hours.
+>
+> [official announcement](https://baka.gov.tr/haber/touristech-hackathon-2026-odul-toreni-ile-sona-erdi/1562) · [full ranking](https://www.turizmdays.com/news/abu-touristech-hachathon-dereceye-girenler-belirlendi-33208)
+
+---
+
+### `> ~/selected_work`
+
+| | what it does | stack |
+|---|---|---|
+| **[Aurelia](https://aurelia.aisli.dev)** `live` | Personal assistant that runs your calendar and notes by voice. 16 tools, 38 regression scenarios. | `nestjs` `react_pwa` `gemini_2.5_flash` |
+| **[Hotel Reservation Intelligence](https://github.com/333asli333/Hotel-Reservation-Intelligence)** | Tells a hotel which bookings are about to be cancelled. | `python` `random_forest` `streamlit` |
+| **[AI Doctor Assistant](https://github.com/333asli333/AI_doctor_assistant)** | Answers a health complaint in Turkish, tailored to the person. | `fastapi` `langchain` `llama-3.3-70b` |
+| **[Bloom AI](https://github.com/333asli333/Bloom_AI_Sentiment_Analysis)** | Reads customer reviews and scores each one from 1 to 5. | `tensorflow` `keras` `lstm` |
+
+<sub><code>&gt; full archive and the story behind each one: <a href="https://aisli.dev">aisli.dev</a></code></sub>
+
+---
+
+### `> ~/stack --list`
+
+**languages**
+
+![Python](https://img.shields.io/badge/Python-010601?style=flat-square&logo=python&logoColor=22FF66)
+![R](https://img.shields.io/badge/R-010601?style=flat-square&logo=r&logoColor=22FF66)
+![SQL](https://img.shields.io/badge/SQL-010601?style=flat-square&logo=postgresql&logoColor=22FF66)
+![TypeScript](https://img.shields.io/badge/TypeScript-010601?style=flat-square&logo=typescript&logoColor=22FF66)
+![PHP](https://img.shields.io/badge/PHP-010601?style=flat-square&logo=php&logoColor=22FF66)
+
+**ml · ai**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-010601?style=flat-square&logo=tensorflow&logoColor=22FF66)
+![Keras](https://img.shields.io/badge/Keras-010601?style=flat-square&logo=keras&logoColor=22FF66)
+![PyTorch](https://img.shields.io/badge/PyTorch-010601?style=flat-square&logo=pytorch&logoColor=22FF66)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-010601?style=flat-square&logo=scikitlearn&logoColor=22FF66)
+![LangChain](https://img.shields.io/badge/LangChain-010601?style=flat-square&logo=langchain&logoColor=22FF66)
+![NLP](https://img.shields.io/badge/NLP-010601?style=flat-square&logo=spacy&logoColor=22FF66)
+![LLM](https://img.shields.io/badge/LLM_function_calling-010601?style=flat-square&logo=openai&logoColor=22FF66)
+
+**data · bi**
+
+![Pandas](https://img.shields.io/badge/Pandas-010601?style=flat-square&logo=pandas&logoColor=22FF66)
+![NumPy](https://img.shields.io/badge/NumPy-010601?style=flat-square&logo=numpy&logoColor=22FF66)
+![Plotly](https://img.shields.io/badge/Plotly-010601?style=flat-square&logo=plotly&logoColor=22FF66)
+![Power BI](https://img.shields.io/badge/Power_BI-010601?style=flat-square&logo=powerbi&logoColor=22FF66)
+![Streamlit](https://img.shields.io/badge/Streamlit-010601?style=flat-square&logo=streamlit&logoColor=22FF66)
+
+**engineering**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-010601?style=flat-square&logo=fastapi&logoColor=22FF66)
+![NestJS](https://img.shields.io/badge/NestJS-010601?style=flat-square&logo=nestjs&logoColor=22FF66)
+![React](https://img.shields.io/badge/React-010601?style=flat-square&logo=react&logoColor=22FF66)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-010601?style=flat-square&logo=postgresql&logoColor=22FF66)
+![Docker](https://img.shields.io/badge/Docker-010601?style=flat-square&logo=docker&logoColor=22FF66)
+![Git](https://img.shields.io/badge/Git-010601?style=flat-square&logo=git&logoColor=22FF66)
+
+---
+
 <div align="center">
 
-♡ ⋆｡˚ ╴ ♡ ╴ ⋆｡˚ ♡ ⋆｡˚ ╴ ♡ ╴ ⋆｡˚ ♡ ╴ ⋆｡˚ ╴ ♡ ⋆｡˚ ╴ ♡ ╴ ⋆｡˚ ♡
-
-</div>
-
-### ʚ♡ɞ &nbsp; About Me
-
-> Veri bilimi ve yapay zekâ üzerine çalışan bir **data scientist**'im. İstatistiksel temelden derin öğrenmeye uzanan bir yelpazede; **makine öğrenmesi**, **NLP** ve **LLM**'lerle sade ama etkili çözümler kuruyorum.🎀
-
-<table>
-<tr>
-<td>
-
-🌷 &nbsp;Şu an **LLM** & **NLP** projelerinde çalışıyorum.
-🧠 &nbsp;Derin öğrenmede **CNN** maceralar peşindeyim.
-📊 &nbsp;**İstatistik** + **ML** ile veriden hikâyeler oluşturuyorum.
-💗 &nbsp;Yeni macera: **PHP / Laravel** interaktif dashboardlar kuruyorum.
 
 
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-♡ ⋆｡˚ ╴ ♡ ╴ ⋆｡˚ ♡ ⋆｡˚ ╴ ♡ ╴ ⋆｡˚ ♡ ╴ ⋆｡˚ ╴ ♡ ⋆｡˚ ╴ ♡ ╴ ⋆｡˚ ♡
-
-</div>
-
-### ʚ♡ɞ &nbsp; Tech Stack
-
-**˚ ༘♡ ⋆｡˚ Languages**
-
-![Python](https://img.shields.io/badge/Python-C98B9B?style=flat-square&logo=python&logoColor=FFF5F5)
-![R](https://img.shields.io/badge/R-C98B9B?style=flat-square&logo=r&logoColor=FFF5F5)
-![SQL](https://img.shields.io/badge/SQL-C98B9B?style=flat-square&logo=postgresql&logoColor=FFF5F5)
-![PHP](https://img.shields.io/badge/PHP-C98B9B?style=flat-square&logo=php&logoColor=FFF5F5)
-
-**˚ ༘♡ ⋆｡˚ AI · Machine Learning · Data**
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-B76E79?style=flat-square&logo=scikitlearn&logoColor=FFF5F5)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-B76E79?style=flat-square&logo=keras&logoColor=FFF5F5)
-![CNN](https://img.shields.io/badge/CNN-B76E79?style=flat-square&logo=tensorflow&logoColor=FFF5F5)
-![NLP](https://img.shields.io/badge/NLP-B76E79?style=flat-square&logo=spacy&logoColor=FFF5F5)
-![LLM](https://img.shields.io/badge/LLM-B76E79?style=flat-square&logo=openai&logoColor=FFF5F5)
-![Statistics](https://img.shields.io/badge/Statistics-B76E79?style=flat-square&logo=apacheecharts&logoColor=FFF5F5)
-
-**˚ ༘♡ ⋆｡˚ Libraries & Frameworks**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-DDA0AE?style=flat-square&logo=pytorch&logoColor=FFF5F5)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-DDA0AE?style=flat-square&logo=tensorflow&logoColor=FFF5F5)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-DDA0AE?style=flat-square&logo=scikitlearn&logoColor=FFF5F5)
-![Pandas](https://img.shields.io/badge/Pandas-DDA0AE?style=flat-square&logo=pandas&logoColor=FFF5F5)
-![NumPy](https://img.shields.io/badge/NumPy-DDA0AE?style=flat-square&logo=numpy&logoColor=FFF5F5)
-![Jupyter](https://img.shields.io/badge/Jupyter-DDA0AE?style=flat-square&logo=jupyter&logoColor=FFF5F5)
-
-**˚ ༘♡ ⋆｡˚ AI Pair Programming & Tools**
-
-![Claude](https://img.shields.io/badge/Claude-B76E79?style=flat-square&logo=anthropic&logoColor=FFF5F5)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-B76E79?style=flat-square&logo=anthropic&logoColor=FFF5F5)
-![Docker](https://img.shields.io/badge/Docker-C98B9B?style=flat-square&logo=docker&logoColor=FFF5F5)
-![VS Code](https://img.shields.io/badge/VS%20Code-C98B9B?style=flat-square&logo=visualstudiocode&logoColor=FFF5F5)
-![Git](https://img.shields.io/badge/Git-C98B9B?style=flat-square&logo=git&logoColor=FFF5F5)
-
-<div align="center">
-
-♡ ⋆｡˚ ╴ ♡ ╴ ⋆｡˚ ♡ ⋆｡˚ ╴ ♡ ╴ ⋆｡˚ ♡ ╴ ⋆｡˚ ╴ ♡ ⋆｡˚ ╴ ♡ ╴ ⋆｡˚ ♡
-
-### ʚ♡ɞ &nbsp; GitHub Stats
-
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=333asli333&show_icons=true&hide_border=true&title_color=B76E79&icon_color=C98B9B&text_color=6E5159&bg_color=FFF0F2&include_all_commits=true&count_private=true"/>
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=333asli333&layout=compact&hide_border=true&title_color=B76E79&text_color=6E5159&bg_color=FFF0F2"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=333asli333&hide_border=true&background=FFF0F2&ring=B76E79&fire=C98B9B&currStreakLabel=B76E79&sideLabels=6E5159&dates=B7A5AA&sideNums=6E5159&currStreakNum=B76E79&dayLabels=C98B9B" width="48%"/>
+<img src="https://komarev.com/ghpvc/?username=333asli333&label=visitors&color=22FF66&style=flat-square&labelColor=010601" alt="visitors"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=333asli333&label=Visitors&color=B76E79&style=flat-square"/>
-
-<br/>
-
-<sub>♡ Made with love, coffee & a little pink ♡</sub>
+<sub><code>&gt; follow the white rabbit → <a href="https://aisli.dev/services.html">aisli.dev/services</a></code></sub>
 
 </div>
