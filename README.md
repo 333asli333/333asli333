@@ -20,7 +20,7 @@
 
 ---
 
-### <img src="assets/rabbit-sm.svg" height="20" alt=""> `whoami`
+### <img src="assets/rabbit-sm.svg" height="20" alt=""> ABOUT ME
 
 ```diff
 + $ whoami
@@ -46,7 +46,7 @@
 
 ---
 
-### <img src="assets/rabbit-sm.svg" height="20" alt=""> `awards`
+### <img src="assets/rabbit-sm.svg" height="20" alt=""> AWARDS
 
 > 🥇 &nbsp;**1st place · TourisTech Hackathon 2026** &nbsp;<code>#1 of 5 ranked finalists</code>
 > Antalya Bilim Üniversitesi · backed by the West Mediterranean Development Agency · 8-member jury from academia and industry
@@ -57,7 +57,7 @@
 
 ---
 
-### <img src="assets/rabbit-sm.svg" height="20" alt=""> `experience`
+### <img src="assets/rabbit-sm.svg" height="20" alt=""> EXPERIENCE
 
 ```diff
 + ● current   2026.05 — present   Backend AI Developer @ moon_workshop
@@ -73,7 +73,7 @@
 
 ---
 
-### <img src="assets/rabbit-sm.svg" height="20" alt=""> `projects`
+### <img src="assets/rabbit-sm.svg" height="20" alt=""> PROJECTS
 
 | | what it does | stack | |
 |---|---|---|---|
@@ -83,7 +83,7 @@
 | **[Bloom AI](https://github.com/333asli333/Bloom_AI_Sentiment_Analysis)** | Reads customer reviews and scores each one from 1 to 5. | `tensorflow` `keras` `lstm` `streamlit` | [`● live`](https://bloomaisentimentanalysis-6ea8crdbwrdb8jhwjxdvxo.streamlit.app) |
 
 <details>
-<summary><code>archive</code> · 6 more projects</summary>
+<summary>6 more projects</summary>
 <br/>
 
 | | what it does | result |
@@ -101,7 +101,7 @@
 
 ---
 
-### <img src="assets/rabbit-sm.svg" height="20" alt=""> `stack`
+### <img src="assets/rabbit-sm.svg" height="20" alt=""> TECH STACK
 
 **languages**
 
@@ -140,7 +140,7 @@
 
 ---
 
-### <img src="assets/rabbit-sm.svg" height="20" alt=""> `education`
+### <img src="assets/rabbit-sm.svg" height="20" alt=""> EDUCATION
 
 ```diff
 + Statistics B.Sc. · Muğla Sıtkı Koçman University · 2022–2026
