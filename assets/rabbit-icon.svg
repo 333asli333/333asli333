@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="96" height="96" role="img" aria-label="aisli.dev white rabbit">
+  <title>aisli.dev</title>
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .hop { animation: hop 3.2s cubic-bezier(.2,0,0,1) infinite; transform-origin: 24px 42px; }
+      @keyframes hop {
+        0%, 70%, 100% { transform: translateY(0) scale(1, 1); }
+        76% { transform: translateY(0) scale(1.06, .92); }
+        84% { transform: translateY(-5px) scale(.96, 1.05); }
+        92% { transform: translateY(0) scale(1.04, .95); }
+      }
+      @media (prefers-reduced-motion: reduce) { .hop { animation: none; } }
+    </style>
+  </defs>
+  <ellipse cx="24" cy="44.5" rx="7" ry="1.2" fill="#22FF66" opacity=".18"/>
+  <g class="hop">
+    <g filter="url(#glow)" fill="#22FF66" transform="translate(4 2) scale(1.6667)">
+      <ellipse cx="12" cy="15.6" rx="5.4" ry="6"/>
+      <ellipse cx="9.3" cy="7" rx="2.3" ry="5.6" transform="rotate(-13 9.3 7)"/>
+      <ellipse cx="14.7" cy="7" rx="2.3" ry="5.6" transform="rotate(13 14.7 7)"/>
+    </g>
+  </g>
+</svg>
