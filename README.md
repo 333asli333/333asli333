@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://aisli.dev/services.html"><img src="assets/rabbit-icon.svg" width="88" alt="white rabbit"/></a>
+<a href="https://aisli.dev/services.html"><img src="assets/rabbit-icon.svg" width="80" alt="white rabbit"/></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=48&duration=3200&pause=900&color=22FF66&center=true&vCenter=true&width=760&height=84&lines=ASLI+TORUN;Data+Scientist+%C2%B7+ML%2FNLP+Engineer;translate(+raw_data+%E2%86%92+strategic_decision+)" alt="Aslı Torun — Data Scientist · ML/NLP Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=3200&pause=900&color=22FF66&center=true&vCenter=true&width=800&height=76&lines=ASLI+TORUN;Data+Scientist+%C2%B7+ML%2FNLP+Engineer;translate(+raw_data+%E2%86%92+strategic_decision+)" alt="Aslı Torun — Data Scientist · ML/NLP Engineer" />
 
 <sub><code>// active_modules : [ 'LLM' · 'NLP' · 'Machine_Learning' · 'Statistics' ]</code></sub>
 <br/>
