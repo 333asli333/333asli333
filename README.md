@@ -79,7 +79,7 @@
 |---|---|---|---|
 | **[Aurelia](https://aurelia.aisli.dev)** | A personal assistant that runs your calendar and notes by voice. | `nestjs` `react_pwa` `gemini_2.5_flash` `postgres` | [`● live`](https://aurelia.aisli.dev) |
 | **[Hotel Reservation Intelligence](https://github.com/333asli333/Hotel-Reservation-Intelligence)** | Tells a hotel which bookings are about to be cancelled. | `python` `random_forest` `streamlit` | [`● live`](https://hotel-reservation-intelligence-b7gtzdtejifm78xtlqomua.streamlit.app) |
-| **[AI Doctor Assistant](https://github.com/333asli333/AI_doctor_assistant)** | Answers a health complaint in Turkish, tailored to the person. | `fastapi` `langchain` `llama-3.3-70b` `groq` | [`● live`](https://doctor-assistant.aisli.dev) |
+| **[AI Doctor Assistant](https://github.com/333asli333/AI_doctor_assistant)** | Answers a health complaint in Turkish, tailored to the person. | `fastapi` `langchain` `gemini_2.5_flash` `openrouter` | [`● live`](https://doctor-assistant.aisli.dev) |
 | **[Bloom AI](https://github.com/333asli333/Bloom_AI_Sentiment_Analysis)** | Reads customer reviews and scores each one from 1 to 5. | `tensorflow` `keras` `lstm` `streamlit` | [`● live`](https://bloomaisentimentanalysis-6ea8crdbwrdb8jhwjxdvxo.streamlit.app) |
 
 <details>
