@@ -20,7 +20,7 @@
 
 ---
 
-### <img src="assets/rabbit-sm.svg" height="24" align="absmiddle" alt=""> &nbsp;`> ~/whoami`&nbsp; <img src="assets/rabbit-trail.svg" height="18" align="absmiddle" alt=""> <img src="assets/rabbit-sm.svg" height="24" align="absmiddle" alt="">
+### <img src="assets/rabbit-sm.svg" height="20" alt=""> `> ~/whoami`
 
 ```diff
 + $ whoami
@@ -46,7 +46,7 @@
 
 ---
 
-### <img src="assets/rabbit-sm.svg" height="24" align="absmiddle" alt=""> &nbsp;`> ~/awards`&nbsp; <img src="assets/rabbit-trail.svg" height="18" align="absmiddle" alt=""> <img src="assets/rabbit-sm.svg" height="24" align="absmiddle" alt="">
+### <img src="assets/rabbit-sm.svg" height="20" alt=""> `> ~/awards`
 
 > 🥇 &nbsp;**1st place · TourisTech Hackathon 2026** &nbsp;<code>#1 of 5 ranked finalists</code>
 > Antalya Bilim Üniversitesi · backed by the West Mediterranean Development Agency · 8-member jury from academia and industry
@@ -57,7 +57,7 @@
 
 ---
 
-### <img src="assets/rabbit-sm.svg" height="24" align="absmiddle" alt=""> &nbsp;`> ~/experience`&nbsp; <img src="assets/rabbit-trail.svg" height="18" align="absmiddle" alt=""> <img src="assets/rabbit-sm.svg" height="24" align="absmiddle" alt="">
+### <img src="assets/rabbit-sm.svg" height="20" alt=""> `> ~/experience`
 
 ```diff
 + ● current   2026.05 — present   Backend AI Developer @ moon_workshop
@@ -73,7 +73,7 @@
 
 ---
 
-### <img src="assets/rabbit-sm.svg" height="24" align="absmiddle" alt=""> &nbsp;`> ~/run_projects --live`&nbsp; <img src="assets/rabbit-trail.svg" height="18" align="absmiddle" alt=""> <img src="assets/rabbit-sm.svg" height="24" align="absmiddle" alt="">
+### <img src="assets/rabbit-sm.svg" height="20" alt=""> `> ~/run_projects --live`
 
 | | what it does | stack | |
 |---|---|---|---|
@@ -101,7 +101,7 @@
 
 ---
 
-### <img src="assets/rabbit-sm.svg" height="24" align="absmiddle" alt=""> &nbsp;`> ~/stack --list`&nbsp; <img src="assets/rabbit-trail.svg" height="18" align="absmiddle" alt=""> <img src="assets/rabbit-sm.svg" height="24" align="absmiddle" alt="">
+### <img src="assets/rabbit-sm.svg" height="20" alt=""> `> ~/stack --list`
 
 **languages**
 
@@ -140,7 +140,7 @@
 
 ---
 
-### <img src="assets/rabbit-sm.svg" height="24" align="absmiddle" alt=""> &nbsp;`> ~/education`&nbsp; <img src="assets/rabbit-trail.svg" height="18" align="absmiddle" alt=""> <img src="assets/rabbit-sm.svg" height="24" align="absmiddle" alt="">
+### <img src="assets/rabbit-sm.svg" height="20" alt=""> `> ~/education`
 
 ```diff
 + Statistics B.Sc. · Muğla Sıtkı Koçman University · 2022–2026
