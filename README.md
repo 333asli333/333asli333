@@ -51,7 +51,7 @@
 > 🥇 &nbsp;**1st place · TourisTech Hackathon 2026** &nbsp;<code>#1 of 5 ranked finalists</code>
 > Antalya Bilim Üniversitesi · backed by the West Mediterranean Development Agency · 8-member jury from academia and industry
 >
-> Every fourth hotel reservation ends in a cancellation. **Otelist** predicts which one at **89% accuracy**, then an AI voice agent calls the guest before the cancellation happens. A decision layer on top of the hotel's existing software, working in **48 hours**. Built with [Mehmet Coşkun](https://coskun.dev/).
+> Every fourth hotel reservation ends in a cancellation. **Otelist** predicts which one at **89% accuracy**, then an AI voice agent calls the guest before the cancellation happens. A decision layer on top of the hotel's existing software, working in **48 hours**. Built with [Mehmet Coşkun](https://coskun.dev/) · [@mehmetcoskun](https://github.com/mehmetcoskun).
 >
 > [official announcement (BAKA)](https://baka.gov.tr/haber/touristech-hackathon-2026-odul-toreni-ile-sona-erdi/1562) · [full ranking](https://www.turizmdays.com/news/abu-touristech-hachathon-dereceye-girenler-belirlendi-33208)
 
